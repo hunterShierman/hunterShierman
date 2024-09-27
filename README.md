@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hunter&label=Profile%20views&color=0e75b6&style=flat" alt="hunter" /> </p>
 
-- 🔭 I’m currently working on Translation Chatbot App **HacBot**
+🔭 I’m currently working on Translation Chatbot App **HacBot**
 
-- 🌱 I’m currently learning **Udemy Fullstack Web Developement Certificate**
+🌱 I’m currently learning **Udemy Fullstack Web Developement Certificate**
 
-- 📫 How to reach me **hshierman@gmail.com**
+📫 How to reach me **hshierman@gmail.com**
 
-- ⚡ Fun fact **I love Fruit-roll up!**
+⚡ Fun fact **I love Fruit-roll up!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
