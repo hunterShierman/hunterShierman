@@ -24,8 +24,7 @@
 <h3>Connect with me:</h3>
 <p>
     <p><a href="https://www.linkedin.com/in/hunter-shierman-5a79892b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a></p>
-  <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
 </p>
 
   
