@@ -1,4 +1,7 @@
-<h1 align="left">Hunter Shierman</h1>
+
+<div>
+    <img src="vecteezy_abstract-orange-fluid-wave-banner-template_8295834.jpg" alt="css-in-readme">
+</div>
 
 🔭 I’m currently working on Translation Chatbot App **HacBot**
 
