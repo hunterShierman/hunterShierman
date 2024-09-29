@@ -2,13 +2,10 @@
 <div>
     <img src="Hunter Shierman (1).png" alt="css-in-readme" width="100%">
 </div>
+<br>
 
-🔭 I’m currently working on Translation Chatbot App **HacBot**
-
-🌱 I’m currently learning **Udemy Fullstack Web Developement Certificate**
-
-📫 How to reach me **hshierman@gmail.com**
-
+👨🏻‍💻Aspiring Software Developer who likes to create cool stuff <br>
+🧑🏻‍🎓Studying Computer Science at Wilfrid Laurier University <br>
 ⚡ Fun fact **I love Fruit-roll up!**
 
 <h3>Things I code with</h3>
