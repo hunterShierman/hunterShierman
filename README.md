@@ -11,7 +11,7 @@
 📬 Contact me at hshierman@gmail.com <br>
 ⚡ Fun fact **I love Fruit-roll ups!**
 
-<h3>Things I code with</h3>
+<h3>Tech Stack</h3>
 <p>
   <img alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
