@@ -4,8 +4,9 @@
 </div>
 <br>
 
-👨🏻‍💻Aspiring Software Developer who likes to create cool stuff <br>
+👨🏻‍💻Aspiring Software Engineer who likes to create cool stuff <br>
 🧑🏻‍🎓Studying Computer Science at Wilfrid Laurier University <br>
+💡Currently working on a Fullstack Web Development Certificate from Udemy <br>
 ⚡ Fun fact **I love Fruit-roll up!**
 
 <h3>Things I code with</h3>
