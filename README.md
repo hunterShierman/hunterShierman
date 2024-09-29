@@ -1,6 +1,6 @@
 
 <div>
-    <img src="vecteezy_working-desk-background_26911423 (4).jpg" alt="css-in-readme" width="100%">
+    <img src="Hunter Shierman (1).png" alt="css-in-readme" width="100%">
 </div>
 
 🔭 I’m currently working on Translation Chatbot App **HacBot**
