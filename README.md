@@ -2,12 +2,13 @@
 <div>
     <img src="Hunter Shierman (1).png" alt="css-in-readme" width="100%">
 </div>
-<br>
+
+<h3>About Me</h3>
 
 👨🏻‍💻Aspiring Software Engineer who likes to create cool stuff <br>
 🧑🏻‍🎓Studying Computer Science at Wilfrid Laurier University <br>
 💡Currently working on a Fullstack Web Development Certificate from Udemy <br>
-⚡ Fun fact **I love Fruit-roll up!**
+⚡ Fun fact **I love Fruit-roll ups!**
 
 <h3>Things I code with</h3>
 <p>
@@ -22,6 +23,7 @@
 
 <h3>Connect with me:</h3>
 <p>
+    <p><a href="www.linkedin.com/in/hunter-shierman-5a79892b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"></a></p>
   <img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </p>
