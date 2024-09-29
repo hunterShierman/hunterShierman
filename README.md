@@ -1,6 +1,6 @@
 
 <div>
-    <img src="vecteezy_abstract-blue-fluid-wave-banner-template_12820116.jpg" alt="css-in-readme">
+    <img src="vecteezy_working-desk-background_26911423 (1).jpg" alt="css-in-readme" width="100%">
 </div>
 
 🔭 I’m currently working on Translation Chatbot App **HacBot**
