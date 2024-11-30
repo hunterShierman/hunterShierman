@@ -9,7 +9,6 @@
 🧑🏻‍🎓 Studying Computer Science at Wilfrid Laurier University <br>
 💡 Currently working on a Fullstack Web Development Certificate from Udemy <br>
 📬 Contact me at hshierman@gmail.com <br>
-⚡ Fun fact **I love Fruit-roll ups!**
 
 <h3>Tech Stack</h3>
 <p>
