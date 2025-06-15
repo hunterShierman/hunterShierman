@@ -8,6 +8,7 @@
 👨🏻‍💻 Aspiring Software Engineer who likes to create cool stuff <br>
 🧑🏻‍🎓 Studying Computer Science at Wilfrid Laurier University <br>
 📬 Contact me at hshierman@gmail.com <br>
+💻 Check out my <a href="https://portfolio-website-roan-beta.vercel.app/">Portfolio Website</a>
 
 <h3>Tech Stack</h3>
 <p>
